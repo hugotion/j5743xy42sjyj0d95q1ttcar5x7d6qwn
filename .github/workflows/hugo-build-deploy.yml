@@ -34,7 +34,7 @@ jobs:
       - name: Upload Hugo build as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: hugo-site
+          name: github-pages
           path: ./public
 
       - name: Deploy to GitHub Pages
