@@ -9,6 +9,8 @@ on:
 
 jobs:
   deploy:
+    environment:
+      name: github-pages
     runs-on: ubuntu-22.04
     permissions:
       contents: read
