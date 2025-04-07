@@ -1,4 +1,0 @@
----
-title: Queen be real!
----
-
