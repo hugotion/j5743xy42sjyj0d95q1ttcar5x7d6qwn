@@ -1,4 +1,4 @@
 ---
-title: Scooby doo
+title: Yappa yappa
 ---
 
